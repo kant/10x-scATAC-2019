@@ -2,7 +2,7 @@
 
 ## **Link** : https://www.nature.com/articles/s41587-019-0206-z
 
-## Please cite : Satpathy*, Granja* et al. , Massively parallel single-cell chromatin landscapes of human immune cell development and intratumoral T cell exhaustion. Nature Biotechnology (2019) <br/>
+## Please cite : Satpathy*, Granja* et al., Massively parallel single-cell chromatin landscapes of human immune cell development and intratumoral T cell exhaustion. Nature Biotechnology (2019) <br/>
 
 ![](Figure1.png)
 
@@ -27,7 +27,7 @@ https://jeffgranja.s3.amazonaws.com/10x-scATAC-share/10x-scATAC-Downsampled-PBMC
 **chromVAR Summarized Experiment** :
 <br/>https://changseq.s3.amazonaws.com/Jeff/10x_ScATAC/chromVAR_Heme_All_SummarizedExperiment.final.rds
 
-**Cicero Log2 Gene Acitvity Scores Summarized Experiment** :
+**Cicero Log2 Gene Activity Scores Summarized Experiment** :
 <br/>https://changseq.s3.amazonaws.com/Jeff/10x_ScATAC/Log2_Gene_Activity_Heme_All_SummarizedExperiment.final.rds
 
 ## scATAC-seq CD34 Hematopoiesis
